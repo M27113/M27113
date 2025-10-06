@@ -3,7 +3,7 @@
 <h1 align="center">🎀 Hey there, I'm A Manasa</h1>
 
 <p align="center">
-  <em>Building intelligent AI Agents & Data-driven solutions | Python • LLMs • Flask • RAG • Automation</em>
+  <em>Building intelligent AI Agents & Data-driven solutions | Python • LLMs • APIs & Web Tools • RAG • Automation</em>
 </p>
 <p align="center">
   <img src="https://github.com/M27113/M27113/blob/main/555.png?raw=true" width="100%" />
