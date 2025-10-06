@@ -28,7 +28,7 @@ I love blending **machine learning**, **retrieval-augmented generation (RAG)**, 
 ---
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://github.com/M27113/M27113/blob/main/tech.png?raw=true" width="100%" />
+  <img src="https://github.com/M27113/M27113/blob/main/ts.png?raw=true" width="100%" />
 </p>
 
 ---
