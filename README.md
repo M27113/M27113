@@ -33,7 +33,7 @@ I love blending **machine learning**, **retrieval-augmented generation (RAG)**, 
 
 ---
 
-### 🪄 Featured Projects  
+### 📢 Featured Projects  
 
 - ####  [AI Slackbot Assistant](https://github.com/M27113/ai-slackbot-assistant) - A conversational assistant with summarizer, planner, and quotes modules
 - ####  [Mini Agentic Pipeline](https://github.com/M27113/mini-agentic-pipeline) - Modular AI that autonomously gathers context, reasons, and acts to answer queries.
