@@ -3,16 +3,10 @@
 <h1 align="center">🎀 Hey there, I'm A Manasa</h1>
 
 <p align="center">
-  <img src="https://github.com/M27113/M27113/blob/main/555.png?raw=true" width="100%" />
-</p>
-
-<p align="center">
-  📍  <a href="mailto:manasa02k@gmail.com">manasa02k@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://github.com/M27113">GitHub</a>
-</p>
-
-<p align="center">
   <em>Building intelligent AI Agents & Data-driven solutions | Python • LLMs • Flask • RAG • Automation</em>
+</p>
+<p align="center">
+  <img src="https://github.com/M27113/M27113/blob/main/555.png?raw=true" width="100%" />
 </p>
 
 ---
