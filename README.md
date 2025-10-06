@@ -74,21 +74,5 @@ I love blending **machine learning**, **retrieval-augmented generation (RAG)**, 
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 <p align="center"><em>"Keep it simple, make it smart."</em></p>
 
