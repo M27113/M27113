@@ -36,11 +36,8 @@ I love blending **machine learning**, **retrieval-augmented generation (RAG)**, 
 ### 🪄 Featured Projects  
 
 #### 🌹 [AI Slackbot Assistant](https://github.com/M27113/ai-slackbot-assistant) - A conversational assistant with summarizer, planner, and quotes modules
-
 #### 🌿 [Mini Agentic Pipeline](https://github.com/M27113/mini-agentic-pipeline) - Modular AI that autonomously gathers context, reasons, and acts to answer queries.
-
 #### 🌻 [Dental Clinic Receptionist](https://github.com/M27113/No-code_AI_Agents/tree/main/Dental_Clinic_Receptionist) - Voice-first AI assistant for appointment scheduling and patient communication
-
 #### 🌺 [Fraud-Detection-Project](https://github.com/M27113/Fraud-Detection-Project) - Built an ML model to detect fraud in 6M+ transactions and extract insights.
 ---
 ### 📚 Research & Publications  
