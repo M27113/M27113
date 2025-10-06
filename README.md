@@ -16,14 +16,14 @@
 I’m an aspiring **AI Agent Developer** and **Data Scientist** passionate about creating intelligent systems that reason, plan, and act.  
 I love blending **machine learning**, **retrieval-augmented generation (RAG)**, and **automation** to design tools that make work smarter and more intuitive.  
 
-💡 Currently exploring **agentic workflows**, **Flask APIs**, and **autonomous pipelines** that connect LLMs to real-world tasks.  
-🍀 I believe in calm, clean design — both in code and creativity.  
+- 💡 Currently exploring **agentic workflows**, **Flask APIs**, and **autonomous pipelines** that connect LLMs to real-world tasks.  
+- 🍀 I believe in calm, clean design — both in code and creativity.  
 
 ---
 
 ### 💼 Education 
 
-🎓 **M.Tech (DECE)** – GNITS, Hyderabad *(CGPA: 9.18, 2021–23)*  
+- 🎓 **M.Tech (DECE)** – GNITS, Hyderabad *(CGPA: 9.18, 2021–23)*  
 
 ---
 ## 🧰 Tech Stack
