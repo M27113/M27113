@@ -3,11 +3,11 @@
 <h1 align="center">🎀 Hey there, I'm A Manasa</h1>
 
 <p align="center">
-  <img src="https://github.com/M27113/M27113/blob/main/222.jpg?raw=true" width="100%" />
+  <img src="https://github.com/M27113/M27113/blob/main/555.jpg?raw=true" width="100%" />
 </p>
 
 <p align="center">
-  📍 Kurnool, India &nbsp;|&nbsp; 📧 <a href="mailto:manasa02k@gmail.com">manasa02k@gmail.com</a> &nbsp;|&nbsp;
+  📍  <a href="mailto:manasa02k@gmail.com">manasa02k@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://github.com/M27113">GitHub</a>
 </p>
 
