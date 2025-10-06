@@ -23,7 +23,7 @@ I love blending **machine learning**, **retrieval-augmented generation (RAG)**, 
 
 ### 💼 Education 
 
-- 🎓 **M.Tech (DECE)** – GNITS, Hyderabad *(CGPA: 9.18, 2021–23)*  
+- 🎓 **M.Tech (DECE)** – GNITS, Hyderabad *(CGPA: **9.18**, 2021–23)*  
 
 ---
 ## 🧰 Tech Stack
