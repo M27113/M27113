@@ -1,8 +1,9 @@
 <!-- README.md -->
+
 <h1 align="center">🎀 Hey there, I'm A Manasa</h1>
 
 <p align="center">
-  <img src="https://github.com/M27113.png" width="100" style="border-radius:50%;" alt="profile picture"/>
+  <img src="https://github.com/M27113/M27113/blob/main/222.jpg?raw=true" width="100%" />
 </p>
 
 <p align="center">
