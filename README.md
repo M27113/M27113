@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">🎀 Hey there, I'm A Manasa</h1>
+<h1 align="center">🎀 Hey there, I'm Manasa</h1>
 
 <p align="center">
   <em>Building intelligent AI Agents & Data-driven solutions | Python • LLMs • APIs & Web Tools • RAG • Automation</em>
