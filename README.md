@@ -33,14 +33,14 @@ I love blending **machine learning**, **retrieval-augmented generation (RAG)**, 
 
 ---
 
-### 📢 Featured Projects  
+### 🧩 Featured Projects  
 
 - ####  [AI Slackbot Assistant](https://github.com/M27113/ai-slackbot-assistant) - A conversational assistant with summarizer, planner, and quotes modules
 - ####  [Mini Agentic Pipeline](https://github.com/M27113/mini-agentic-pipeline) - Modular AI that autonomously gathers context, reasons, and acts to answer queries.
 - ####  [Dental Clinic Receptionist](https://github.com/M27113/No-code_AI_Agents/tree/main/Dental_Clinic_Receptionist) - Voice-first AI assistant for appointment scheduling and patient communication
 - ####  [Fraud-Detection-Project](https://github.com/M27113/Fraud-Detection-Project) - Built an ML model to detect fraud in 6M+ transactions and extract insights.
 ---
-### 📚 Research & Publications  
+### 📘 Research & Publications  
 
 - 📕 *Wrong-Way and Over Speed Violation Detection System* — **Springer ICIPCN (2023)** - [DOI Link](#)  
 - 📓 *A Real-Time Multiple Traffic Violation Detection System Using DeepSORT* — **IEEE (2024)** - [DOI Link](#)  
@@ -62,7 +62,7 @@ I love blending **machine learning**, **retrieval-augmented generation (RAG)**, 
 
 ---
 
-### 🧩 GitHub at a Glance  
+### 🔍 GitHub at a Glance  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M27113&show_icons=true&theme=graywhite&hide_border=true" height="150">
