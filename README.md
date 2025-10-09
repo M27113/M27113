@@ -52,15 +52,6 @@ I love blending **machine learning**, **retrieval-augmented generation (RAG)**, 
 - 📊 **IBM Data Analyst Specialization**  
 
 ---
-### 📌 Connect with Me  
-
-<p align="center">
-  <a href="mailto:manasa02k@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/manasa-a-744411381"><img src="https://img.shields.io/badge/LinkedIn-Connect-lightblue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/M27113"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
-</p>
-
----
 
 ### 🔍 GitHub at a Glance  
 
